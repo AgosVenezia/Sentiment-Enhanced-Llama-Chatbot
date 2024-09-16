@@ -2,6 +2,8 @@
 
 ![LLM Foundations](https://pbs.twimg.com/media/GXVBdQNXYAAWcRf?format=png&name=small)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uYpjZ9rcfgVG9jjPSSzgbCPIaeEa_wv_?usp=sharing]
+
 ## Project Overview
 This project creates a Llama chatbot that uses Hugging Face's sentiment analysis model to adjust responses based on the emotional tone of the user's input. By detecting whether a user is feeling positive or negative, the chatbot can provide uplifting and supportive responses when necessary, making it a useful tool for mental health support. This sentiment-enhanced chatbot is implemented using Python in a Google Colab environment and utilizes Hugging Face's pre-trained sentiment analysis model.
 
